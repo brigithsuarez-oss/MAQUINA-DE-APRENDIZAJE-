@@ -1,0 +1,47 @@
+REPORTE DESCRIPTIVO DE VENTAS
+================================
+
+COBERTURA
+- Archivo: C:\Users\Usuario\Documents\2026\BRIGITH\MAESTRIA\Nueva carpeta\ventas_mensuales_tratada.csv
+- Registros: 39,013
+- Periodo: 2024-01 a 2025-12
+- Regiones: 2
+- Sucursales: 152
+- Categorias: 8
+- Productos: 17
+- Laboratorios: 11
+
+RESULTADOS GENERALES
+- Ventas totales: 8,115,815.60
+- Venta promedio: 208.03
+- Venta mediana: 164.50
+- Desviacion de ventas: 185.03
+- Cantidad promedio: 16.59
+- Precio promedio: 34.96
+- Descuento promedio: 0.2249
+
+ESTADISTICAS NUMERICAS
+- anio: conteo=39,013; total=78,982,593.00; promedio=2,024.52; mediana=2,025.00; desviacion=0.50; minimo=2,024.00; maximo=2,025.00
+- cantidad: conteo=39,013; total=647,047.55; promedio=16.59; mediana=11.67; desviacion=17.11; minimo=0.01; maximo=237.33
+- descuento_pct: conteo=39,013; total=8,775.71; promedio=0.22; mediana=0.22; desviacion=0.07; minimo=0.08; maximo=0.51
+- mes: conteo=39,013; total=256,535.00; promedio=6.58; mediana=7.00; desviacion=3.44; minimo=1.00; maximo=12.00
+- precio: conteo=39,013; total=1,363,788.67; promedio=34.96; mediana=18.50; desviacion=49.26; minimo=6.42; maximo=190.00
+- ventas: conteo=39,013; total=8,115,815.60; promedio=208.03; mediana=164.50; desviacion=185.03; minimo=0.68; maximo=4,509.36
+
+TOP 5 CATEGORIAS POR VENTAS
+1. Alivio del dolor: 3,022,288.55 (37.24%)
+2. Salud digestiva: 2,077,249.79 (25.60%)
+3. Antibióticos: 926,298.26 (11.41%)
+4. Diabetes: 683,494.84 (8.42%)
+5. Salud del sistema nervioso: 472,585.68 (5.82%)
+
+CORRELACIONES CON VENTAS
+- cantidad: 0.6054
+- precio: 0.1174
+- descuento_pct: -0.0553
+
+INTERPRETACION
+- La cantidad tiene una relacion lineal moderada con las ventas.
+- La relacion del precio con las ventas es debil.
+- La relacion del descuento con las ventas es muy debil y negativa.
+- Las correlaciones no indican causalidad.
